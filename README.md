@@ -9,4 +9,4 @@ I'm passionate about accessible web design, innovative technologies, 3D animatio
 - 🔭 I’m currently working on ... This readme!
 - 🌱 I’m currently learning ... HTML, CSS & Javascript.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmwilson8&theme=tokyonight)
