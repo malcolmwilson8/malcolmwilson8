@@ -4,7 +4,7 @@
 
 ## Hello 👍.
 
-I'm Malcolm (he/him) - a student on the Founders & Coders bootcamp, learning skills in Web Development (HTML, CSS & Javascript).
+I'm Malcolm (he/him) - a student on the Founders & Coders bootcamp, furthering my skills in Web Development (HTML, CSS & Javascript).
 
 I'm passionate about accessible web design, innovative technologies and making a positive societal impact through my code.
 
