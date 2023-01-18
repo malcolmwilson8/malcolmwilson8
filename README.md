@@ -1,7 +1,7 @@
-## Hello 👍.
+## Hello 👋.
 
 <p align="center">
-<img src="">
+<img src="Standing pose ps1.png" height="400px" width="400px">
 </p>
 
 I'm Malcolm (he/him) - currently learning within the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp programme, furthering my competencies in front-end web development.
