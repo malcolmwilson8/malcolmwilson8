@@ -10,7 +10,7 @@ I'm a highly determined coder, passionate about accessible web design, developin
 
 - 🧱 I’m currently working on: building my skills across HTML, CSS and JS
 - 🌠 I'm curious about: APIs, AI, and creative coding
-- 🌄 Some facts about me: I speak French and Spanish, I'm learning 3D animation, love skateboarding, and have climbed Mount Kilimanjaro
+- 🌄 Some facts about me: I speak French and Spanish, I'm learning 3D animation, and have climbed Mount Kilimanjaro
 - 📬 You can reach me at: my [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) profile
 
 ## Languages & Tools
