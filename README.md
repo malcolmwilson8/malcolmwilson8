@@ -17,7 +17,7 @@ I'm a highly determined coder, passionate about accessible web design, developin
 - 🌄 Some facts about me: I can speak French, Spanish, and have climbed Mount Kilimanjaro
 
 <p align="center">
-<img src="" height="400px" width="400px">
+<img src="kilimanjaro.jpg" height="300px" width="400px">
 </p>
 
 ## Languages & tools
