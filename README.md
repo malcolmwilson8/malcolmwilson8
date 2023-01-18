@@ -1,16 +1,17 @@
 ## Hello 👍.
 
 <p align="center">
-<img src="https://github.com/malcolmwilson8/malcolmwilson8/blob/main/thumbs-up.gif">
+<img src="">
 </p>
 
-I'm Malcolm (he/him) - currently part of the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp, furthering my skills in front-end web development.
+I'm Malcolm (he/him) - currently learning within the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp programme, furthering my competencies in front-end web development.
 
-I'm passionate about accessible web design, innovative technologies and making a positive societal impact through my code.
+I'm a highly determined coder, passionate about accessible web design, developing my skill set daily, and making a positive societal impact through my code.
 
-- 🔭 I’m currently working on ... This readme!
-- 🌠 I'm curious about ... APIs, AI, and creative coding
-- 🌄 A few facts about me; I can speak French and Spanish, love skateboarding and have climbed Mount Kilimanjaro
+- 🧱 I’m currently working on: building my skills across HTML, CSS and JS
+- 🌠 I'm curious about: APIs, AI, and creative coding
+- 🌄 Some facts about me: I speak French and Spanish, I'm learning 3D animation, love skateboarding, and have climbed Mount Kilimanjaro
+- 📬 You can reach me at: my [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) profile
 
 ## Languages & Tools
 
@@ -26,4 +27,8 @@ I'm passionate about accessible web design, innovative technologies and making a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolmwilson8&theme=dark)](https://github.com/malcolmwilson8/github-readme-stats)
 
+<p align="center">Thank you for stopping by, and feel free to get in touch!</p>
 
+<p align="center">
+<img src="https://github.com/malcolmwilson8/malcolmwilson8/blob/main/thumbs-up.gif">
+</p>
