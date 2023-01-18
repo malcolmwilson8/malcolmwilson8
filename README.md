@@ -8,9 +8,8 @@ I'm a highly determined coder, passionate about accessible web design, developin
 
 - 🧱 I’m currently working on: building my skills across HTML, CSS and JS
 - 🌠 I'm curious about: APIs, AI, and creative coding
-- 😎 A few of my hobbies: I make 3D art in Blender, I skate 🛹, and I'm learning to DJ
 - 📬 You can reach me via: my [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) profile
-- 🌄 Some facts about me: I can speak French, Spanish, and have climbed Mount Kilimanjaro
+- 🌄 Some facts about me: I can speak French and Spanish, and have climbed Mount Kilimanjaro
 
 ## Languages & tools
 
