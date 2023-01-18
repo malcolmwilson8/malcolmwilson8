@@ -1,8 +1,9 @@
+
+## Hello 👍.
+
 <p align="center">
 <img src="https://github.com/malcolmwilson8/malcolmwilson8/blob/main/thumbs-up.gif">
 </p>
-
-## Hello 👍.
 
 I'm Malcolm (he/him) - currently part of the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp, furthering my skills in front-end web development.
 
