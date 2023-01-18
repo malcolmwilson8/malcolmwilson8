@@ -12,16 +12,20 @@ I'm a highly determined coder, passionate about accessible web design, developin
 
 - 🧱 I’m currently working on: building my skills across HTML, CSS and JS
 - 🌠 I'm curious about: APIs, AI, and creative coding
-- 🌄 Some facts about me: I can speak French, Spanish, and have climbed Mount Kilimanjaro
 - 😎 A few of my hobbies: I make 3D art in Blender, I skate 🛹, and I'm learning to DJ
 - 📬 You can reach me via: my [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) profile
+- 🌄 Some facts about me: I can speak French, Spanish, and have climbed Mount Kilimanjaro
+
+<p align="center">
+<img src="" height="400px" width="400px">
+</p>
 
 ## Languages & tools
 
-<img align="left" width="55px" height="50px" alt="HTML logo" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/> 
-<img align="left" width="55px" height="50px" alt="CSS logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"/>
-<img align="left" width="55px" height="50px" alt="Javascript logo" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
-<img align="left" width="55px" height="50px" alt="Blender logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="left" width="55px" height="50px" alt="HTML logo" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img align="left" width="55px" height="50px" alt="CSS logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript"><img align="left" width="55px" height="50px" alt="Javascript logo" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/Blender_(software)"><img align="left" width="55px" height="50px" alt="Blender logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/></a>
 <br /> <br />
 
 ## My Github stats
