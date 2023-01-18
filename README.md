@@ -15,10 +15,10 @@ I'm passionate about accessible web design, innovative technologies and making a
 
 ## Languages & Tools
 
-<img align="left" width="50px" height="50px" alt="HTML logo" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/> 
-<img align="left" width="50px" height="50px" alt="CSS logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"/>
-<img align="left" width="50px" height="50px" alt="Javascript logo" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
-<img align="left" width="50px" height="50px" alt="Blender logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
+<img align="left" width="55px" height="50px" alt="HTML logo" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/> 
+<img align="left" width="55px" height="50px" alt="CSS logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"/>
+<img align="left" width="55px" height="50px" alt="Javascript logo" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
+<img align="left" width="55px" height="50px" alt="Blender logo" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
 <br /> <br />
 
 ## My Github Stats
