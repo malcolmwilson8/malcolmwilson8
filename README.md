@@ -1,9 +1,5 @@
 ## Hi there 👋!
 
-<p align="center">
-<img src="ps1 me waving.png" height="400px" width="400px">
-</p>
-
 I'm Malcolm (he/him) - currently learning within the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp programme, furthering my competencies in front-end web development.
 
 I'm a highly determined coder, passionate about accessible web design, developing my skill set daily, and making a positive societal impact through my code.
@@ -15,10 +11,6 @@ I'm a highly determined coder, passionate about accessible web design, developin
 - 😎 A few of my hobbies: I make 3D art in Blender, I skate 🛹, and I'm learning to DJ
 - 📬 You can reach me via: my [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) profile
 - 🌄 Some facts about me: I can speak French, Spanish, and have climbed Mount Kilimanjaro
-
-<p align="center">
-<img src="kilimanjaro.jpg" height="300px" width="400px">
-</p>
 
 ## Languages & tools
 
