@@ -1,4 +1,4 @@
-# Hi there 👋! I'm Malcolm (he/him)
+# Hi there 👋! I'm Malcolm (he/him).
 
 I'm currently learning within the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp programme, furthering my competencies in front-end web development.
 
@@ -7,7 +7,7 @@ I'm a highly determined coder, passionate about accessible web design, developin
 ## A bit more about me
 
 - 🧱 I’m currently working on: building my skills across HTML, CSS and JS
-- 🌠 I'm curious about: APIs, AI, and creative coding
+- 🌠 I'm curious about: APIs, AI, and the nexus between art and coding
 - 📬 You can reach me via: my [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) profile
 - 🌄 Some facts about me: I can speak French and Spanish, I skate 🛹 and have climbed Mount Kilimanjaro
 
