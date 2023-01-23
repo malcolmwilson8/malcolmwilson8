@@ -1,6 +1,6 @@
-## Hi there 👋!
+# Hi there 👋! I'm Malcolm (he/him)
 
-I'm Malcolm (he/him) - currently learning within the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp programme, furthering my competencies in front-end web development.
+I'm currently learning within the [Founders and Coders](https://learn.foundersandcoders.com/) bootcamp programme, furthering my competencies in front-end web development.
 
 I'm a highly determined coder, passionate about accessible web design, developing my skill set daily, and making a positive societal impact through my code.
 
