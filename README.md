@@ -1,6 +1,6 @@
 # Hi there 👋! I'm Malcolm (he/him).
 
-I'm currently on a part-time web dev bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end, moonlighting as a skateboarder, 3d art-maker, and (budding) music producer 🌚. Thanks for stopping by, and it'd be great to connect on [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/)!
+I'm currently on a part-time web development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (novice) music producer 🌚. Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/)!
 
 ## A bit more about me
 
@@ -25,7 +25,7 @@ I'm currently on a part-time web dev bootcamp with [Founders and Coders](https:/
 <img width="" src="https://github-readme-stats.vercel.app/api?username=malcolmwilson8&theme=dark" alt="Github commit stats" />
 </p>
 
-<p align="center">Thanks for stopping by, and feel free to get in touch!</p>
+<p align="center">Thanks for stopping by!</p>
 
 <p align="center">
 <img src="https://github.com/malcolmwilson8/malcolmwilson8/blob/main/thumbs-up.gif">
