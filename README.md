@@ -4,7 +4,7 @@ I'm currently on a part-time web development bootcamp with [Founders and Coders]
 
 ## A bit more about me
 
-- 🧱 I’m currently working on: building out my portfolio with some new projects. Stay tuned!
+- 🧱 I’m currently working on: building my knowledge of Node.js
 - 🤔 I'm curious about: Three.js, AI, and how to combine art and coding
 
 ## Languages & tools I use
