@@ -4,7 +4,7 @@ I'm currently on a part-time web development bootcamp with [Founders and Coders]
 
 ## A bit more about me
 
-- 🧱 I’m currently working on: building my knowledge of Node.js, npm and React, whilst also working on some interesting new projects. Stay tuned!
+- 🧱 I’m currently building: my knowledge of Node.js, npm and React, whilst working on some interesting new projects. Stay tuned!
 - 🤔 I'm curious about: Three.js, AI, and how to combine art and coding
 - ✅ I am open to work! Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) if you have any opportunities which you think would suit me.
 
