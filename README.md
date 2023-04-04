@@ -1,6 +1,6 @@
 # Hi there 👋! I'm Malcolm (he/him).
 
-I'm currently on a part-time web development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (bedroom) music producer/DJ.
+I'm currently on a part-time web development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (bedroom) music producer/DJ 💽.
 
 ## A bit more about me
 
