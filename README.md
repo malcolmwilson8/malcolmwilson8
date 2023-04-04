@@ -2,6 +2,8 @@
 
 I'm currently on a part-time web development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (bedroom) music producer/DJ 💽.
 
+You can view a link to my FAC portfolio [here](https://github.com/fac27/Malcolm-Portfolio),
+
 ## A bit more about me
 
 - 🧱 I’m currently building: my knowledge of Node.js, npm and React, whilst working on some interesting new projects. Stay tuned!
