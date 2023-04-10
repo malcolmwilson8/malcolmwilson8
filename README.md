@@ -6,9 +6,9 @@ You can view my FAC project portfolio [here](https://github.com/fac27/Malcolm-Po
 
 ## A bit more about me
 
-- 🧱 I’m currently building: my knowledge of Node.js, npm and React, whilst working on some interesting new projects. Stay tuned!
-- 🤔 I'm curious about: Three.js and how to combine art and coding
-- ✅ I am open to work! Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) if you have any opportunities which you think would suit me.
+- 🧱 I’m currently building: a freeform painting app called mu.ral. Check out my progress [here](https://github.com/malcolmwilson8/mu.ral)!
+- 🤔 I'm curious about: Three.js, HTML Canvas, and building interactive apps
+- ✅ I am open to work! Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) if you have any opportunities which you think would suit me
 
 ## Languages & tools I use
 
