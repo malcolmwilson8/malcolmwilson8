@@ -2,8 +2,6 @@
 
 I'm currently on a part-time web development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (bedroom) music producer/DJ 💽.
 
-You can view my FAC project portfolio [here](https://github.com/fac27/Malcolm-Portfolio).
-
 ## A bit more about me
 
 - 🧱 I’m currently building: a freeform painting app called mu.ral. Check out my progress [here](https://github.com/malcolmwilson8/mu.ral)!
