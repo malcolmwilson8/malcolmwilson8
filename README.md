@@ -5,7 +5,7 @@ I'm currently on a part-time web development bootcamp with [Founders and Coders]
 ## A bit more about me
 
 - 🧱 I’m currently building: a freeform painting app called mu.ral. Check out my progress [here](https://github.com/malcolmwilson8/mu.ral)!
-- 🤔 I'm curious about: Three.js, HTML Canvas, and building interactive apps
+- 🤔 I'm curious about: React, HTML Canvas, and building interactive apps
 - ✅ I am open to work! Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) if you have any opportunities which you think would suit me
 
 ## Languages & tools I use
