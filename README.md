@@ -5,7 +5,7 @@ I completed a part-time web development bootcamp in 2023 with [Founders and Code
 ## A bit more about me
 
 - 🧱 I’m currently building: This was the last thing I worked on - a painting app called mu.ral. You can find it [here](https://github.com/malcolmwilson8/mu.ral)!
-- 🤔 I'm curious about: CRM, React, HTML Canvas, and building interactive apps
+- 🤔 I'm curious about: CRM, React, HTML Canvas and Email Design
 - ✅ I am open to work! Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) if you have any opportunities which you think would suit me
 
 
