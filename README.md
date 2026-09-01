@@ -1,11 +1,11 @@
 # Hi there 👋! I'm Malcolm (he/him).
 
-I'm currently on a part-time web development bootcamp with [Founders and Coders](https://learn.foundersandcoders.com/), enjoying learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (bedroom) music producer/DJ 💽.
+I completed a part-time web development bootcamp in 2023 with [Founders and Coders](https://learn.foundersandcoders.com/), and greatly enjoyed learning all things front-end. In my spare time I moonlight as a skateboarder, 3d art-maker, and (bedroom) music producer/DJ 💽.
 
 ## A bit more about me
 
 - 🧱 I’m currently building: a freeform painting app called mu.ral. Follow my progress [here](https://github.com/malcolmwilson8/mu.ral)!
-- 🤔 I'm curious about: React, HTML Canvas, and building interactive apps
+- 🤔 I'm curious about: CRM, React, HTML Canvas, and building interactive apps
 - ✅ I am open to work! Don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/malcolmwilsonmcg/) if you have any opportunities which you think would suit me
 
 ## Languages & tools I use
